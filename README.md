@@ -15,4 +15,6 @@ LEDs will display the accuracy of the player, in a format like a traditional tra
 
 ![](gameplayPic.PNG)
 
-![](fritzing.PNG)
+4 digit display
+
+![](fritzing.png)
