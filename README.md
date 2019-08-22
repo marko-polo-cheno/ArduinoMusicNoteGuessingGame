@@ -13,5 +13,5 @@ When the button is pressed, the displayed freqency will be locked and comapred t
 LEDs will display the accuracy of the player, in a format like a traditional traffic light display - red, amber, and green.
 
 
-![](gamePlayPic.PNG)
+![](gameplayPic.PNG)
 
