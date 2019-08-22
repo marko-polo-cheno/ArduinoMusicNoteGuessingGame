@@ -11,3 +11,7 @@ A note will be played, and the user can adjust the dial (potentiometer) to attem
 A 4 digit display will show the frequency number that the user wishes to enter as their guess.
 When the button is pressed, the displayed freqency will be locked and comapred to the correct frequency.
 LEDs will display the accuracy of the player, in a format like a traditional traffic light display - red, amber, and green.
+
+
+![](gamePlayPic.PNG)
+
